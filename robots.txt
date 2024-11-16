@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://travisallisondes.github.io/travisallisondes_github_io_zp529_1.txt
+Sitemap: https://travisallisondes.github.io/travisallisondes_github_io_zp529_14.txt
+Sitemap: https://travisallisondes.github.io/travisallisondes_github_io_zp529_19.txt
+Sitemap: https://travisallisondes.github.io/travisallisondes_github_io_zp529_23.txt
+Sitemap: https://travisallisondes.github.io/travisallisondes_github_io_zp529_28.txt
+Sitemap: https://travisallisondes.github.io/travisallisondes_github_io_zp529_4.txt
+Sitemap: https://travisallisondes.github.io/travisallisondes_github_io_zp529_9.txt
